@@ -34,5 +34,12 @@ return [
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
         ],
     ],
+    [
+        'microservices' => [
+            'auth' => env('AUTH_SERVICE_URL'),
+            'patient' => env('PATIENTS_SERVICE_URL'),
+            'appointment' => env('APPOINTMENTS_SERVICE_URL')
+        ]
+    ],
 
 ];
