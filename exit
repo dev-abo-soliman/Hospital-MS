@@ -1,0 +1,15 @@
+[90m= [39m[
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mSupport[39m\\[34mArrayable[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mSupport[39m\\[32mArrayable[39m[32m"[39m,
+    [34m"[39m[34mArrayAccess[39m[34m"[39m => [32m"[39m[32mArrayAccess[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mSupport[39m\\[34mCanBeEscapedWhenCastToString[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mSupport[39m\\[32mCanBeEscapedWhenCastToString[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mBroadcasting[39m\\[34mHasBroadcastChannel[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mBroadcasting[39m\\[32mHasBroadcastChannel[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mSupport[39m\\[34mJsonable[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mSupport[39m\\[32mJsonable[39m[32m"[39m,
+    [34m"[39m[34mJsonSerializable[39m[34m"[39m => [32m"[39m[32mJsonSerializable[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mQueue[39m\\[34mQueueableEntity[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mQueue[39m\\[32mQueueableEntity[39m[32m"[39m,
+    [34m"[39m[34mStringable[39m[34m"[39m => [32m"[39m[32mStringable[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mRouting[39m\\[34mUrlRoutable[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mRouting[39m\\[32mUrlRoutable[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mAuth[39m\\[34mAuthenticatable[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mAuth[39m\\[32mAuthenticatable[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mAuth[39m\\[34mAccess[39m\\[34mAuthorizable[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mAuth[39m\\[32mAccess[39m\\[32mAuthorizable[39m[32m"[39m,
+    [34m"[39m[34mIlluminate[39m\\[34mContracts[39m\\[34mAuth[39m\\[34mCanResetPassword[39m[34m"[39m => [32m"[39m[32mIlluminate[39m\\[32mContracts[39m\\[32mAuth[39m\\[32mCanResetPassword[39m[32m"[39m,
+    [34m"[39m[34mLaravel[39m\\[34mPassport[39m\\[34mContracts[39m\\[34mOAuthenticatable[39m[34m"[39m => [32m"[39m[32mLaravel[39m\\[32mPassport[39m\\[32mContracts[39m\\[32mOAuthenticatable[39m[32m"[39m,
+  ]
